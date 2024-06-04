@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Tan
+- 👀 I’m interested in Nothing
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Anything related to Python
+- 📫 How to reach me email [ sa.tansinco@gmail.com ]
+- 😄 Pronouns: Penguins
+- ⚡ Fun fact: I'm Lazy [ i'm Boring ]
