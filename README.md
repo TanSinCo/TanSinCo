@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tan
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Anything related to Python
+- 👋 Hi, I’m @Ratinder Singh.
+- 👀 I’m interested in interships and jobs.
+- 🌱 I’m currently learning Python (ML, AI), JAVA.
+- 💞️ I’m looking to collaborate on #Anything 
 - 📫 How to reach me email [ sa.tansinco@gmail.com ]
 - 😄 Pronouns: Penguin
 - ⚡ Fun fact: I'm Lazy [ i'm Boring ]
